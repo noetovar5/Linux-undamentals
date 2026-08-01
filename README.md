@@ -1,4 +1,4 @@
-# Linux-undamentals
+# Linux-Fundamentals
 Linux Command Line Fundamentals
 
 Linux Command Line Fundamentals
